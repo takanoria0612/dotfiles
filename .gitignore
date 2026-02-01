@@ -7,14 +7,8 @@
 !aerospace/**
 !borders/
 !borders/**
-!nvim/
-!nvim/**
 !sketchybar/
 !sketchybar/**
 !bordersrc
 
-# nvim 内の不要ファイルを除外
-nvim/init.lua~
-nvim/init.lu[v-z]~
-nvim/init.vim.backup
-nvim/pack/
+!README.md
